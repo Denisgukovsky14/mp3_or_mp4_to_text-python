@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# ffmpeg (~200 МБ на файл) — скачивается отдельно, см. README
+*.exe
+ffmpeg-master-latest-win64-gpl/
+# Модели Whisper
+*.pt
